@@ -1,0 +1,17 @@
+{
+  "name": "twitter-server-slyncio",
+  "version": "1.0.0",
+  "description": "twitter server to call twitter API for tweets",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "twitter": "^1.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server.js",
+    "test": "test"
+  },
+  "author": "Taylor Wei",
+  "license": "ISC"
+}
